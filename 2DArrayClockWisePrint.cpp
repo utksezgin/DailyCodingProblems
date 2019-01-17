@@ -28,6 +28,8 @@ You should print out the following :
 13
 12*/
 
+#include <iostream>
+
 void printArrClockWise(int **arr, int N, int M);
 
 int main()
